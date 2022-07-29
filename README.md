@@ -12,5 +12,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weimeng0910&show_icons=true&theme=radical)
 
 ### About me
-🍉 I'm focusing on learning front-end knowledge。
+🍉 Hi, I'm supermeng, a passionate self-taught front-end web developer. I'm relearning the latest front-end knowledge, and my passion for software is to conceive ideas and bring them to life through elegant interfaces.
 <img align="right" alt="Coding" width="400" src="https://github.com/weimeng0910/weimeng0910/blob/main/code.gif" width="500" height="320"/>
