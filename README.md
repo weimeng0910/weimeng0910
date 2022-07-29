@@ -13,3 +13,4 @@
 
 ### About me
 🍉 I'm focusing on learning front-end knowledge。
+![code](https://user-images.githubusercontent.com/76035703/181721658-cf8032cd-047b-4d05-81c9-4a7a76b8fcfd.gif)
