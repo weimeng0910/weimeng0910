@@ -12,3 +12,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weimeng0910&show_icons=true&theme=radical)
 
 ### About me
+🍉 I'm focusing on learning front-end knowledge, sometimes learning UE
