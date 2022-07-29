@@ -13,4 +13,4 @@
 
 ### About me
 🍉 I'm focusing on learning front-end knowledge。
-![code](https://user-images.githubusercontent.com/76035703/181721658-cf8032cd-047b-4d05-81c9-4a7a76b8fcfd.gif)
+<img align="right" alt="Coding" width="400" src="[add your link here](https://github.com/weimeng0910/weimeng0910/blob/master/code.gif?raw=true" width="500" height="320")">
