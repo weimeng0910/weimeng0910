@@ -13,4 +13,4 @@
 
 ### About me
 🍉 I'm focusing on learning front-end knowledge。
-<img align="right" alt="Coding" width="400" src="[add your link here](https://github.com/weimeng0910/weimeng0910/blob/master/code.gif?raw=true" width="500" height="320")">
+<img align="right" alt="Coding" width="400" src="https://github.com/weimeng0910/weimeng0910/blob/main/code.gif" width="500" height="320"/>
